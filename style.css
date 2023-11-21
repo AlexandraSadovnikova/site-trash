@@ -1,27 +1,42 @@
-body {
-    background-color: #968c72; 
-  }
-
-.header {
-    background-color: #cac5b7;
-    width: 1600px;
-    height: 80px;
-    position: absolute;
-    display: block;
+.grande {
+width: 1600px;
+height: 900px;
 }
 
-.aside {
-    background-color: #cac5b7;
+.header {
+    background-color: #c4bba4;
+    height: 20%;
+    font-family: 'Scharf';
+}
+
+.container-1 {
+    display: flex;
+    height: 70%;
 }
 
 .main {
     background-color: #cac5b7;
+    width: 75vw;
 }
 
-.section {
-    background-color: #cac5b7;
+.section-1 {
+
 }
+
+.section-2 {
+    
+}
+.section-3 {
+    
+}
+
+.aside {
+    background-color: #a8a498;
+    width: 25vw;
+}
+
 
 .footer {
-    background-color: #cac5b7;
+    background-color: #7c7970;
+    height: 10%;
 }
